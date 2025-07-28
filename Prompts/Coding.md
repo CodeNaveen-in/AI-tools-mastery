@@ -50,3 +50,6 @@ It is the coding type where you work alongside AI tool and it helps like an assi
 # AI Tools for Code Review
 - CodeRabbit
 - Cursor BugBot
+
+# AI automation
+- n8n
